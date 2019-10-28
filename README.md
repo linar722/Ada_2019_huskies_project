@@ -30,20 +30,23 @@ If you ask some elderlies, they may say a little dirt never killed anybody. But 
 Analyze the situation of some most popular food establishments and give some suggestions to nowadays young people in restaurant selection.
  
 # Dataset
+*List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.*
 We will use the dataset from the City of Chicago Open Data which is derived from inspections of restaurants and other food establishments in Chicago from January 1st, 2010 to the present. This dataset includes abundant information on the inspections’ results. However, to achieve our goal, we may extend our data with the population demographics and the district’s division from the official website of Chicago.
 
 
  
-A list of internal milestones up until project milestone 2
-l  02.11.2019: Data preprocessing
-l   
-l  25.11.2019: Preliminary descriptive analysis
-l  20.12.2019: Finalize the data story and notebook
-l  29.12.2019: Create the poster
+# A list of internal milestones up until project milestone 2
+*Add here a sketch of your planning for the next project milestone.*
+- 02.11.2019: Data preprocessing
+-   
+- 25.11.2019: Preliminary descriptive analysis
+- 20.12.2019: Finalize the data story and notebook
+- 29.12.2019: Create the poster
  
-Questions for TAs
--Is it okay for us to use some other dataset as an additional dataset to mine more stories from the existed dataset? For example, to use other geo-related data that can be found from the city of Chicago open data to analyze the potential relationship between food violation type and the main population of the particular area?
--What’re the differences between milestone 2 and the report submission? Do we need to finish all the analysis working before milestone 2?
+# Questions for TAs
+*Add here some questions you have for us, in general or project-specific.*
+- Is it okay for us to use some other dataset as an additional dataset to mine more stories from the existed dataset? For example, to use other geo-related data that can be found from the city of Chicago open data to analyze the potential relationship between food violation type and the main population of the particular area?
+- What’re the differences between milestone 2 and the report submission? Do we need to finish all the analysis working before milestone 2?
 - When are we getting the feedback for the milestone 1?
 - How much memory RAM would this require? Would it be feasible to conduct the analysis without resorting to cloud computing?
  
