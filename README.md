@@ -3,17 +3,22 @@
 
  
 # Abstract
-*If you ask some elderlies, they may say a little dirt never killed anybody. But recently food safety has become a more and more serious issue all around the world especially considering eating outside. Therefore, inspections are performed by staff from the Chicago Department of Public Health’s Food Protection Program using a standardized procedure. Thanks to Kaggle’s data platform, we can get a sense of the sanitary performance of the food establishments in Chicago with the results of the inspection and possibly understand the food hygiene condition all over the world through this small state.*
+*What's the motivation behind your project? A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why?*
+
+If you ask some elderlies, they may say a little dirt never killed anybody. But recently food safety has become a more and more serious issue all around the world especially considering eating outside. Therefore, inspections are performed by staff from the Chicago Department of Public Health’s Food Protection Program using a standardized procedure. Thanks to Kaggle’s data platform, we can get a sense of the sanitary performance of the food establishments in Chicago with the results of the inspection and possibly understand the food hygiene condition all over the world through this small state.
  
 # Research Questions
-1.The sanitary conditions of food establishments:
--How is the overall sanitary condition of Chicago’s dining establishments? How is it distributed in this city?
--What are the most common violations? What do the violation comments imply?
--How does food hygiene condition correlate to facility type: Does a certain type of restaurant have a more serious problem on food security?
--How does food hygiene condition correlate to time (i.e. months, seasons, and years): Does hot weather mean bad food sanitation? Does food safety get improved over time?
--How does food hygiene condition correlate to districts: Do some districts always face a bigger food safety problem? Where is the safest or worst place to eat?
--Do restaurants have Clustering affection: Do geographically closed restaurants have a similar violation?
--If the hygiene condition and violation type are highly correlated to the districts, try to use some other additional geo-related dataset to find out why.(bonus)
+
+*A list of research questions you would like to address during the project.*
+
+1. The sanitary conditions of food establishments:
+- How is the overall sanitary condition of Chicago’s dining establishments? How is it distributed in this city?
+- What are the most common violations? What do the violation comments imply?
+- How does food hygiene condition correlate to facility type: Does a certain type of restaurant have a more serious problem on food security?
+- How does food hygiene condition correlate to time (i.e. months, seasons, and years): Does hot weather mean bad food sanitation? Does food safety get improved over time?
+- How does food hygiene condition correlate to districts: Do some districts always face a bigger food safety problem? Where is the safest or worst place to eat?
+- Do restaurants have Clustering affection: Do geographically closed restaurants have a similar violation?
+- If the hygiene condition and violation type are highly correlated to the districts, try to use some other additional geo-related dataset to find out why.(bonus)
  
 2.  	The effectiveness of the inspection methods:
  Is different inspections’ frequency consistent: Do different kinds of inspections have similar distribution both in the time domain and geographic domain?
