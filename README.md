@@ -20,16 +20,16 @@ If you ask some elderlies, they may say a little dirt never killed anybody. But 
 - Do restaurants have Clustering affection: Do geographically closed restaurants have a similar violation?
 - If the hygiene condition and violation type are highly correlated to the districts, try to use some other additional geo-related dataset to find out why.(bonus)
  
-2.  	The effectiveness of the inspection methods:
- Is different inspections’ frequency consistent: Do different kinds of inspections have similar distribution both in the time domain and geographic domain?
-How does inspection’s result correlate to the inspection’s type and frequency: for example, do advanced noticed inspection have a better result?
-Does the inspection frequency satisfy the state’s requirements?
-How do different inspection methods influence the inspection results?
-Try to develop a way to measure the establishments’ hygiene performance. (bonus)
-3.  	Case study:
+2. The effectiveness of the inspection methods:
+- Is different inspections’ frequency consistent: Do different kinds of inspections have similar distribution both in the time domain and geographic domain?
+- How does inspection’s result correlate to the inspection’s type and frequency: for example, do advanced noticed inspection have a better result?
+- Does the inspection frequency satisfy the state’s requirements?
+- How do different inspection methods influence the inspection results?
+- Try to develop a way to measure the establishments’ hygiene performance. (bonus)
+3. Case study:
 Analyze the situation of some most popular food establishments and give some suggestions to nowadays young people in restaurant selection.
  
-Dataset
+# Dataset
 We will use the dataset from the City of Chicago Open Data which is derived from inspections of restaurants and other food establishments in Chicago from January 1st, 2010 to the present. This dataset includes abundant information on the inspections’ results. However, to achieve our goal, we may extend our data with the population demographics and the district’s division from the official website of Chicago.
 
 
