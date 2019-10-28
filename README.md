@@ -5,7 +5,7 @@
 # Abstract
 *What's the motivation behind your project? A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why?*
 
-If you ask some elderlies, they may say a little dirt never killed anybody. But recently food safety has become a more and more serious issue all around the world especially considering eating outside. Therefore, inspections are performed by staff from the Chicago Department of Public Health’s Food Protection Program using a standardized procedure. Thanks to Kaggle’s data platform, we can get a sense of the sanitary performance of the food establishments in Chicago with the results of the inspection and possibly understand the food hygiene condition all over the world through this small state.
+If you ask some elderlies, they may say a little dirt never killed anybody. However, with the degradation of the environment recently, food safety, especially when eating outside, has become a more and more serious issue all around the world. Therefore, inspections are performed by the staff from the Chicago Department of Public Health’s Food Protection Program using a standardized procedure.  According to the data displayed on the Kaggle, we get the result with different performances of establishments. Our objects are to review the overall sanitary conditions using the inspection results and analyze the effectiveness of the inspection methods in order to evaluate the reliability of the overall results. Possibly, we could understand the food hygiene condition all over the world through this small state. 
  
 # Research Questions
 
