@@ -2,10 +2,10 @@
 
 
  
-#Abstract
-*If you ask some elderlies, they may say a little dirt never killed anybody. But recently food safety has become a more and more serious issue all around the world especially considering eating outside. Therefore, inspections are performed by staff from the Chicago Department of Public Health’s Food Protection Program using a standardized procedure. Thanks to Kaggle’s data platform, we can get a sense of the sanitary performance of the food establishments in Chicago with the results of the inspection and possibly understand the food hygiene condition all over the world through this small state.
+# Abstract
+*If you ask some elderlies, they may say a little dirt never killed anybody. But recently food safety has become a more and more serious issue all around the world especially considering eating outside. Therefore, inspections are performed by staff from the Chicago Department of Public Health’s Food Protection Program using a standardized procedure. Thanks to Kaggle’s data platform, we can get a sense of the sanitary performance of the food establishments in Chicago with the results of the inspection and possibly understand the food hygiene condition all over the world through this small state.*
  
-#Research Questions
+# Research Questions
 1.The sanitary conditions of food establishments:
 -How is the overall sanitary condition of Chicago’s dining establishments? How is it distributed in this city?
 -What are the most common violations? What do the violation comments imply?
